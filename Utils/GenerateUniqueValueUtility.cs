@@ -1,4 +1,4 @@
-﻿namespace Licensing.Utils;
+﻿namespace Licensing.Utilities;
 
     public class GenerateUniqueValueUtility
     {

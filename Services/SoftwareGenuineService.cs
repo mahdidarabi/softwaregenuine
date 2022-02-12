@@ -1,5 +1,5 @@
 using System.Text.RegularExpressions;
-using Licensing.Utils;
+using Licensing.Utilities;
 using DeviceId;
 
 namespace Licensing.Services;
