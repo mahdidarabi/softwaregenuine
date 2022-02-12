@@ -171,7 +171,6 @@ public class SoftwareGenuineService
     {
 
         var deviceId = _deviceId
-            .AddMacAddress()
             .AddMachineName()
             .ToString();
         Regex rgx = new Regex("[^a-zA-Z0-9]");
